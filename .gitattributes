@@ -1,1 +1,4 @@
-*.someweirdextensionthatisnttracked filter=lfs diff=lfs merge=lfs -text
+Street-View-360.uasset filter=lfs diff=lfs merge=lfs -text
+Street-View-360_copy.uasset filter=lfs diff=lfs merge=lfs -text
+LS_LasVegas.uasset filter=lfs diff=lfs merge=lfs -text
+Stage_Scene1.uasset filter=lfs diff=lfs merge=lfs -text
